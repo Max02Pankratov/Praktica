@@ -1,0 +1,31 @@
+.div {
+    margin-top: 50px;
+    display: grid; 
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+
+    background-color: lightgray;
+}
+
+.divTwo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    border: 1px solid black;
+    background-color: whitesmoke;
+}
+
+.text {
+    font-size: 24px;
+}
+
+.image {
+    margin: 5px;
+}

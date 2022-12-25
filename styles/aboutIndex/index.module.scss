@@ -1,0 +1,24 @@
+.div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 30px;
+    font-size: 22px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.button:hover {
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+
+
+

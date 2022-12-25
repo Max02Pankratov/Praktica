@@ -1,0 +1,68 @@
+.div {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 20px 0px;
+}
+
+.divTwo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-color: white;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0px;
+}
+
+.hp3 {
+    background-color: white;
+    margin: 0px;
+}
+
+.pp {
+    background-color: white;
+}
+
+.p {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-color: lightgray;
+    margin: 0px;
+}
+
+.link {
+    cursor: pointer;
+    font-size: 22px;
+    margin: 10px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.link:hover {
+    transform: scale(1.2);
+    transition: 0.5s ease all;
+    color: rgb(172, 111, 33);
+    text-decoration: underline 1px;
+}
+
+#span {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin-right: 5px;
+    background-color: bisque;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border-radius: 50px;
+}

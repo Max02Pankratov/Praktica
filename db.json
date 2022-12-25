@@ -1,0 +1,13 @@
+{
+    "posts": [
+        {"id": 1, "title": "JavaScript Post", "body": "lorem ipsum and more, more, very more text..."},
+        {"id": 2, "title": "no JavaScript Post", "body": "lorem ipsum and more text..."},
+        {"id": 3, "title": "only JavaScript Post", "body": "lorem ipsum and text..."},
+        {"id": 4, "title": "JavaScript", "body": "lorem ipsum and more, more, very more text..."},
+        {"id": 5, "title": "no JavaScript", "body": "lorem ipsum and more text..."},
+        {"id": 6, "title": "only JavaScript", "body": "lorem ipsum and text..."}
+    ],
+    "about": {
+        "title": "Page about us"
+    }
+}
